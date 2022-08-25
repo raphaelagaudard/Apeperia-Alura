@@ -3,7 +3,6 @@
 ## Conteudos
 * [Info](#info)
 * [Tecnologia](#technologia)
-* [Observações](#observaçoes)
 
 ## Info
 O projeto foi um desafio da Alura , onde o intuito era recriar o site da Apeperia Alura trabalhando com um layout mobile responsivo.
@@ -11,11 +10,6 @@ O projeto foi um desafio da Alura , onde o intuito era recriar o site da Apeperi
 ## Tecnologia
 
 * **CSS (com emmet) + HTML**
-
-	
-## Observações
-
-Foi utilizado o P5 para desenvolver o jogo.
 
 ## Demonstração:
 
