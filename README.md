@@ -13,6 +13,4 @@ O projeto foi um desafio da Alura , onde o intuito era recriar o site da Apeperi
 
 ## Demonstração:
 
-![Demonstração]
-
 Link do protótipo: https://www.figma.com/file/FidBn9f7BoBCoEs19EzbUD/Apeperia-Mobile-First
